@@ -3,8 +3,8 @@ package ext;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello from Java!");
-        System.out.println("Git and Jenkins Demo Project");
+        System.out.println("Hello from Valliammai!");
+        System.out.println("Git and Jenkins Demo Project on 23_may");
 
     }
 }
